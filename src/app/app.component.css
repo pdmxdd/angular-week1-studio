@@ -1,0 +1,8 @@
+p {
+  font-family: Lato;
+}
+
+.box {
+  display: flex;
+  padding: 10px;
+}
